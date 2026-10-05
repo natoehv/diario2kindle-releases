@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
-  "versionName": "0.1.5",
-  "apkUrl": "https://github.com/natoehv/diario2kindle-releases/releases/download/v0.1.5/Diario2Kindle.apk",
-  "changelog": "Nueva versión 0.1.5",
+  "versionCode": 7,
+  "versionName": "0.1.6",
+  "apkUrl": "https://github.com/natoehv/diario2kindle-releases/releases/download/v0.1.6/Diario2Kindle.apk",
+  "changelog": "Nueva versión 0.1.6",
   "required": false
 }
